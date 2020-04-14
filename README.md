@@ -1,1 +1,2 @@
-"# KTH-IK1203" 
+# KTH-IK1203 
+Socket programming assignments in Java
